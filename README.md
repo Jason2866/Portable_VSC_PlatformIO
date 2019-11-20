@@ -9,7 +9,7 @@ Builded with:
 
 and tweaked to run from a USB stick with any! Drive letter
 
-[Tasmota](https://github.com/arendst/Tasmota) as as example project included
+[Tasmota](https://github.com/arendst/Tasmota) as example project included
 
 ## How to do? 
 - Just extract the ZIP to a USB stick in root
