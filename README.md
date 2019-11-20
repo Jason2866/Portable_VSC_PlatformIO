@@ -10,3 +10,7 @@ Builded with:
 and tweaked to run from a USB stick with any! Drive letter
 
 [Tasmota](https://github.com/arendst/Tasmota) as as example project included
+
+Just extract the ZIP to a USB stick in root
+Look in folder ``Files_for_Setup`` and read ``Fast_Start_readme.txt`` for the needed settings!
+
