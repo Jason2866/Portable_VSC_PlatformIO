@@ -1,4 +1,4 @@
-Portable VSC/Platformio for Windows
+## Portable VSC/Platformio for Windows
 
 [Download](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.0/Portable_VSC_PlatformIO.zip) and extract to a fast extern drive or USB stick
 
@@ -11,6 +11,7 @@ and tweaked to run from a USB stick with any! Drive letter
 
 [Tasmota](https://github.com/arendst/Tasmota) as as example project included
 
-Just extract the ZIP to a USB stick in root
-Look in folder ``Files_for_Setup`` and read ``Fast_Start_readme.txt`` for the needed settings!
+## How to do? 
+- Just extract the ZIP to a USB stick in root
+- Change in folder ``Files_for_Setup`` and read ``Fast_Start_readme.txt`` for the ONE! setting that has to be done
 
