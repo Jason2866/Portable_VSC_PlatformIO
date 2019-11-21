@@ -2,6 +2,8 @@
 
 [Download](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.0/Portable_VSC_PlatformIO.zip) and extract to a fast extern drive or USB stick
 
+[Compile Pack Tasmota](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.0/Tasmota_build_package_Core_2.6.1.zip) allows to build Tasmota (core 2.6.1) without a Internet connection after installing
+
 Builded with:
 - [Visual Studio Code portable](https://github.com/portapps/vscode-portable/releases/download/1.40.1-22/vscode-portable-win64-1.40.1-22-setup.exe)
 - [Portable Python](https://sourceforge.net/projects/portable-python/files/Portable%20Python%202.7/Portable%20Python-2.7.17.exe)
