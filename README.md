@@ -1,5 +1,7 @@
 ## Portable VSC/Platformio for Windows
 
+[![GitHub Releases](https://img.shields.io/github/downloads/Jason2866/Portable_VSC_PlatformIO/total?label=downloads&color=%231FA3EC&style=for-the-badge)](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/latest)
+
 [Download](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.0/Portable_VSC_PlatformIO.zip) and extract to a fast extern drive or USB stick
 
 [Compile Pack Tasmota](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.0/Tasmota_build_package_Core_2.6.1.zip) allows to build Tasmota (core 2.6.1) without a Internet connection after installing
