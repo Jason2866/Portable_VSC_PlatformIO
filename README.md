@@ -1,20 +1,18 @@
-## Portable VSC/Platformio for Windows
+## Portable VSC/Platformio/Python for Windows
 
 [![GitHub Releases](https://img.shields.io/github/downloads/Jason2866/Portable_VSC_PlatformIO/total?label=downloads&color=%231FA3EC&style=for-the-badge)](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/latest)
 
-[Download](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.1/Portable_VSC_PlatformIO.zip) and extract to a fast extern drive or USB stick
+[Download](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.2/VSC_PlatformIO_Python.zip) and extract to a folder on your PC or a fast extern drive/USB stick.
 
-[Compile Pack Tasmota](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.1/Tasmota_build_package_Core_2.6.1.zip) allows to build Tasmota (core 2.6.1) without a Internet connection after installing
+[Compile Pack Tasmota](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.2/Tasmota_compile_pack.zip) allows to build Tasmota (core 2.6.1) without a Internet connection.
 
 Built with:
-- [Visual Studio Code portable](https://github.com/portapps/vscode-portable/releases/download/1.40.1-22/vscode-portable-win64-1.40.1-22-setup.exe)
-- [Portable Python](https://sourceforge.net/projects/portable-python/files/Portable%20Python%202.7/Portable%20Python-2.7.17.exe)
+- [Winpython64-3.7.4.1cod](https://sourceforge.net/projects/winpython/files/WinPython_3.7/3.7.4.1/Winpython64-3.7.4.1cod.exe/download)
 - [Portable Git](https://github.com/sheabunge/GitPortable/releases/download/v2.21.0-devtest.1/GitPortable_2.21.0_Development_Test_1_online.paf.exe)
 
-and tweaked to run from a USB stick with any! Drive letter
 
-[Tasmota](https://github.com/arendst/Tasmota) as example project included
+[Tasmota](https://github.com/arendst/Tasmota) as example project in [Compile Pack](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.2/Tasmota_compile_pack.zip)
 
 ## How to do? 
-- Just extract the ZIP to a USB stick in root
-- Run `start_VSC.cmd` in root folder 
+- Just extract the ZIP to a folder or a USB stick
+- Run `VS Code.exe` in folder `VSC` 
