@@ -2,9 +2,9 @@
 
 [![GitHub Releases](https://img.shields.io/github/downloads/Jason2866/Portable_VSC_PlatformIO/total?label=downloads&color=%231FA3EC&style=for-the-badge)](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/latest)
 
-[Download](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.2/VSC_PlatformIO_Python.zip) and extract to a folder on your PC or a fast extern drive/USB stick.
+[Download](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.3/VSC_PlatformIO_Python.zip) and extract to a folder on your PC or a fast extern drive/USB stick.
 
-[Compile Pack Tasmota](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.2/Tasmota_compile_pack.zip) allows to build Tasmota (core 2.6.1) without a Internet connection.
+[Compile Pack Tasmota](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.3/Tasmota_compile_pack.zip) allows to build Tasmota without a Internet connection.
 
 Optional: [Enhanced version with PyQt5](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.2/VSC_PlatformIO_Python_PyQt5.zip) included to run Projects with Qt GUI framework.
 
