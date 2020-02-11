@@ -20,7 +20,7 @@ Built with:
 - [Tasmota](http://Tasmota.com) preinstalled [ready to run](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.3/Tasmota_compile_pack.zip). 
   * Extract the [ZIP](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.3/Tasmota_compile_pack.zip) to the same destination as [VSC](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.3/VSC_PlatformIO_Python.zip) was unzipped
   * Start `VS Code.exe` (in folder `VSC`) and select in menu `File`-> `Open Folder...`
-  * Navigate to folder `Tasmota-development.8.1.0.x and choose this folder
+  * Navigate to folder `Tasmota-development.8.1.0.x` and choose this folder
   * Wait a while until `VSC`is ready...
   * Make your settings as described in [Tasmota Wiki](https://tasmota.github.io/docs/#/Visual-Studio-Code?id=compile-tasmota)
   * Hit the blue compile Logo `tick` at the bottom of the VSC screen
