@@ -6,7 +6,7 @@
 
 [Compile Pack Tasmota](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.3/Tasmota_compile_pack.zip) allows to build Tasmota without a Internet connection.
 
-Optional: [Enhanced version with PyQt5](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.2/VSC_PlatformIO_Python_PyQt5.zip) included to run Projects with Qt GUI framework.
+Optional: [Enhanced version with PyQt5](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.3/VSC_PlatformIO_Python_PyQt5.zip) included to run Projects with Qt GUI framework.
 
 Built with:
 - [Winpython64-3.7.4.1cod](https://sourceforge.net/projects/winpython/files/WinPython_3.7/3.7.4.1/Winpython64-3.7.4.1cod.exe/download)
