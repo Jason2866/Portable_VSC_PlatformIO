@@ -22,7 +22,7 @@ Built with:
   * Start `VS Code.exe` (in folder `VSC`) and select in menu `File`-> `Open Folder...`
   * Navigate to folder `Tasmota-development.8.2.0.x` and choose this folder
   * Wait a while until `VSC`is ready...
-  * Make your settings as described in [Tasmota Wiki](https://tasmota.github.io/docs/#/Visual-Studio-Code?id=compile-tasmota)
+  * Make your settings as described in [Tasmota Wiki](https://tasmota.github.io/docs/Visual-Studio-Code/)
   * Hit the blue compile Logo `tick` at the bottom of the VSC screen
 
 - [Tasmota Device Manager](https://github.com/jziolkowski/tdm) with PyQt5<br>
