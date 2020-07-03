@@ -25,7 +25,7 @@ Built with:
   * Make your settings as described in [Tasmota Wiki](https://tasmota.github.io/docs/Visual-Studio-Code/)
   * Hit the blue compile Logo `tick` at the bottom of the VSC screen
 
-- [Tasmota Device Manager](https://github.com/jziolkowski/tdm) with PyQt5<br>
+- [Tasmota Device Manager](https://github.com/jziolkowski/tdm) with [PyQt5](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.3/VSC_PlatformIO_Python_PyQt5.zip)<br>
   * Download TDM from the linked page with clicking<br>
    ![image](https://user-images.githubusercontent.com/24528715/70787391-d4bdee00-1d8e-11ea-9b53-f6e82f53c995.png)<br>
   * Choose `Download ZIP` Save the file `tdm-master.zip`<br>
