@@ -1,6 +1,8 @@
 # Portable VSC/Platformio/Python for Windows
 
 [![GitHub Releases](https://img.shields.io/github/downloads/Jason2866/Portable_VSC_PlatformIO/total?label=downloads&color=%231FA3EC&style=for-the-badge)](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/latest)
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Jason2866/Portable_VSC_PlatformIO.svg)](http://isitmaintained.com/project/Jason2866/Portable_VSC_PlatformIO "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/Jason2866/Portable_VSC_PlatformIO.svg)](http://isitmaintained.com/project/Jason2866/Portable_VSC_PlatformIO "Percentage of issues still open")
 
 [Download](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.3/VSC_PlatformIO_Python.zip) and extract to a folder on your PC or a fast extern drive/USB stick.
 
