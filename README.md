@@ -11,7 +11,7 @@
 Optional: [Enhanced version with PyQt5](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/download/1.3/VSC_PlatformIO_Python_PyQt5.zip) included to run Projects with Qt GUI framework.
 
 Built with:
-- [Python64-3.7.7](http://dl.bintray.com/platformio/dl-misc/python-portable-windows_amd64-3.7.7.tar.gz)
+- Python64-3.7.4
 - [Portable Git](https://github.com/sheabunge/GitPortable/releases/download/v2.21.0-devtest.1/GitPortable_2.21.0_Development_Test_1_online.paf.exe)
 
 ## How to do? 
