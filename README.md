@@ -10,4 +10,4 @@ Built with:
 
 ## How to do? 
 - Just extract the [ZIP](https://github.com/Jason2866/Portable_VSC_PlatformIO/releases/latest) to a folder or a USB stick
-- Run `VS Code.exe` in folder `VSC` 
+- Run `VS Code.exe` in folder `Vsc.Pyt_39`
